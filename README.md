@@ -1,24 +1,6 @@
-# README
+# This is a template for sign up, login, logout using only bcrypt
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Ruby version: 7
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Acknowledgments: [Steve Polito's tutorial](https://stevepolito.design/blog/rails-authentication-from-scratch/)
